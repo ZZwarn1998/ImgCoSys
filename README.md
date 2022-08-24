@@ -2,7 +2,7 @@
 
 &emsp;This is a simple Image Compression System which has the function of network communication. I realized the final project in class, EEE5347 Image & Video Compression and Network Communication.  Here is a simple illustration roughly showing the overall structure of network communication process of the project. 
 
-<p style="text-align: center;"> <img src="D:\application\BG\Project\_readme_img\structure.png"></p>
+<p style="text-align: center;"> <img src=".\_readme_img\structure.png"></p>
 
 # Usage
 
