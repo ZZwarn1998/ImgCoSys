@@ -8,7 +8,7 @@
 
 ## Experiment
 
-&emsp;If you want to have a look at the process of image compression and decompression, go to `main.py` and click ***run button*** to start. All data are save in folder `./data`.  In this section,  I wrote `plot.py` to show the pairwise relationships between some variables, such as R (Rate), D (Distortion), CR (Compressed Rate) and Q (Quantization step size). Assuming that the name of image is `image1`, before we draw plots by using it, you should **make sure** that you have copied a csv file named `image1.csv`, pasted it in folder , `./data/collect` , and assign the parameter`name` `"image1"`, which is in `plot.py`.
+&emsp;If you want to have a look at the process of image compression and decompression, go to `main.py` and click ***run button*** to start. All data are save in folder `./data`.  In this section,  I wrote `plot.py` to show the pairwise relationships between some variables, such as R (Rate), D (Distortion), CR (Compressed Rate) and Q (Quantization step size). Assuming that the name of image is `image1`, before we draw plots by using it, you should **make sure** that you have copied a csv file named `image1.csv`, pasted it in folder , `./data/collect` , and assigned the parameter, `name`, `"image1"`, which is in `plot.py`.
 
 ## Network Communication
 
