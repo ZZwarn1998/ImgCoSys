@@ -13,7 +13,3 @@
 ## Network Communication
 
 &emsp;If you want to use network communication, you should do like this. After you run `client.py` and `server.py`, you should designate **IP address** and **Port** of target server for `client.py`.  Then,   just follow the hint, type command line and you can use image compression system via network communication. Additionally, decoded image is saved in folder `./client_rec`. 
-
-# Thanks
-
-&emsp;Thanks for the author, [aparande](https://github.com/aparande), of the repository, [EZWImageCompression](https://github.com/aparande/EZWImageCompression). The repository inspires me how to realize zero-tree.
